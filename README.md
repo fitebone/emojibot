@@ -8,6 +8,8 @@ I made this bot a few years back because one particular Discord user in a server
 
 ## Showcase
 ![Emoji Difference](diff.png)\
-The difference in size between an inline emoji and a plain emoji\
+The difference in size between an inline emoji and a plain emoji
+
+
 ![Bot Showcase](example.png)\
 The product of the bot's reactions
